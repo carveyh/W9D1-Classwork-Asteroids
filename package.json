@@ -1,0 +1,23 @@
+{
+  "name": "w9d1-classwork-asteroids",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carveyh/W9D1-Classwork-Asteroids.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carveyh/W9D1-Classwork-Asteroids/issues"
+  },
+  "homepage": "https://github.com/carveyh/W9D1-Classwork-Asteroids#readme",
+  "devDependencies": {
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
+  }
+}
